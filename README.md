@@ -26,6 +26,7 @@
 ## Array
 |  |
 | ------- |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -57,4 +58,8 @@
 |  |
 | ------- |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+## Two Pointers
+|  |
+| ------- |
+| [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 <!---LeetCode Topics End-->
