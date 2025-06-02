@@ -32,6 +32,7 @@
 ## Array
 |  |
 | ------- |
+| [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
@@ -77,6 +78,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
