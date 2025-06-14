@@ -6,6 +6,7 @@
 | ------- |
 | [1500-count-largest-group](https://github.com/Shivi7757/LeetCode/tree/master/1500-count-largest-group) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shivi7757/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shivi7757/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Dynamic Programming
@@ -85,6 +86,7 @@
 | ------- |
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
