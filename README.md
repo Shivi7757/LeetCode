@@ -43,6 +43,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -89,11 +90,13 @@
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Sorting
 |  |
 | ------- |
+| [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Heap (Priority Queue)
