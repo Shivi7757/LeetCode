@@ -12,6 +12,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Combinatorics
@@ -93,6 +94,7 @@
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shivi7757/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -126,6 +128,7 @@
 | ------- |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shivi7757/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivi7757/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivi7757/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivi7757/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -165,4 +168,8 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/Shivi7757/LeetCode/tree/master/0386-lexicographical-numbers) |
 | [0440-k-th-smallest-in-lexicographical-order](https://github.com/Shivi7757/LeetCode/tree/master/0440-k-th-smallest-in-lexicographical-order) |
+## Memoization
+|  |
+| ------- |
+| [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 <!---LeetCode Topics End-->
