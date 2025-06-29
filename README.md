@@ -40,6 +40,7 @@
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivi7757/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2144-maximum-difference-between-increasing-elements](https://github.com/Shivi7757/LeetCode/tree/master/2144-maximum-difference-between-increasing-elements) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
@@ -74,6 +75,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
@@ -89,6 +91,7 @@
 |  |
 | ------- |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [3683-find-the-lexicographically-largest-string-from-the-box-i](https://github.com/Shivi7757/LeetCode/tree/master/3683-find-the-lexicographically-largest-string-from-the-box-i) |
 ## Greedy
 |  |
@@ -106,6 +109,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shivi7757/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
