@@ -44,6 +44,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -90,6 +91,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivi7757/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -106,6 +108,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
