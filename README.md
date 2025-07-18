@@ -49,6 +49,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivi7757/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
@@ -104,6 +105,7 @@
 ## Stack
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 ## Monotonic Stack
 |  |
@@ -226,4 +228,8 @@
 |  |
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivi7757/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
