@@ -246,6 +246,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shivi7757/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shivi7757/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 ## Design
 |  |
@@ -263,4 +264,8 @@
 |  |
 | ------- |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivi7757/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
+## Linked List
+|  |
+| ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Shivi7757/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 <!---LeetCode Topics End-->
