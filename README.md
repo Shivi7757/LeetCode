@@ -14,6 +14,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivi7757/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -58,6 +59,7 @@
 | [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivi7757/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
@@ -285,4 +287,8 @@
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Shivi7757/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Shivi7757/LeetCode/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/Shivi7757/LeetCode/tree/master/0141-linked-list-cycle) |
+## Matrix
+|  |
+| ------- |
+| [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 <!---LeetCode Topics End-->
