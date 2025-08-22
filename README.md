@@ -85,6 +85,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shivi7757/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivi7757/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
@@ -296,4 +297,5 @@
 | ------- |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
+| [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shivi7757/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 <!---LeetCode Topics End-->
