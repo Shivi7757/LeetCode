@@ -56,6 +56,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
@@ -279,6 +280,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 ## Hash Function
 |  |
@@ -297,6 +299,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Shivi7757/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
