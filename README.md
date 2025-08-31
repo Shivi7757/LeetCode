@@ -34,6 +34,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shivi7757/LeetCode/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/Shivi7757/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -53,6 +54,7 @@
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Shivi7757/LeetCode/tree/master/0035-search-insert-position) |
+| [0037-sudoku-solver](https://github.com/Shivi7757/LeetCode/tree/master/0037-sudoku-solver) |
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -302,10 +304,15 @@
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Shivi7757/LeetCode/tree/master/0037-sudoku-solver) |
 | [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Shivi7757/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shivi7757/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shivi7757/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
+## Backtracking
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/Shivi7757/LeetCode/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
