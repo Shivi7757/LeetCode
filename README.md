@@ -57,6 +57,7 @@
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivi7757/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Array
 |  |
 | ------- |
@@ -107,6 +108,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivi7757/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,6 +122,7 @@
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shivi7757/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
 | ------- |
@@ -142,6 +145,7 @@
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivi7757/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Stack
 |  |
 | ------- |
@@ -301,6 +305,7 @@
 | ------- |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivi7757/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Simulation
 |  |
 | ------- |
@@ -348,4 +353,8 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Shivi7757/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+## Ordered Set
+|  |
+| ------- |
+| [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 <!---LeetCode Topics End-->
