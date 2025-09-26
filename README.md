@@ -71,6 +71,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
@@ -141,6 +142,7 @@
 | [0035-search-insert-position](https://github.com/Shivi7757/LeetCode/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivi7757/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -167,6 +169,7 @@
 | [0141-linked-list-cycle](https://github.com/Shivi7757/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0811-number-of-subarrays-with-bounded-maximum](https://github.com/Shivi7757/LeetCode/tree/master/0811-number-of-subarrays-with-bounded-maximum) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
@@ -176,6 +179,7 @@
 |  |
 | ------- |
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
+| [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivi7757/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shivi7757/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -194,6 +198,7 @@
 |  |
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [0900-reordered-power-of-2](https://github.com/Shivi7757/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1019-squares-of-a-sorted-array](https://github.com/Shivi7757/LeetCode/tree/master/1019-squares-of-a-sorted-array) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
