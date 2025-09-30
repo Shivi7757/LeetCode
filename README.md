@@ -8,6 +8,7 @@
 | [0900-reordered-power-of-2](https://github.com/Shivi7757/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shivi7757/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Shivi7757/LeetCode/tree/master/1500-count-largest-group) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [3172-divisible-and-non-divisible-sums-difference](https://github.com/Shivi7757/LeetCode/tree/master/3172-divisible-and-non-divisible-sums-difference) |
@@ -31,6 +32,7 @@
 ## Combinatorics
 |  |
 | ------- |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shivi7757/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
 ## Number Theory
@@ -89,6 +91,7 @@
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shivi7757/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivi7757/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivi7757/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
@@ -319,6 +322,7 @@
 | ------- |
 | [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0682-baseball-game](https://github.com/Shivi7757/LeetCode/tree/master/0682-baseball-game) |
+| [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shivi7757/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 ## Hash Function
 |  |
