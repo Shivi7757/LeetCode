@@ -70,6 +70,7 @@
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
+| [0407-trapping-rain-water-ii](https://github.com/Shivi7757/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
@@ -219,6 +220,7 @@
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Shivi7757/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -276,6 +278,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0407-trapping-rain-water-ii](https://github.com/Shivi7757/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivi7757/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/Shivi7757/LeetCode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 | [3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii](https://github.com/Shivi7757/LeetCode/tree/master/3645-maximize-the-number-of-target-nodes-after-connecting-trees-ii) |
@@ -342,6 +345,7 @@
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/Shivi7757/LeetCode/tree/master/0037-sudoku-solver) |
+| [0407-trapping-rain-water-ii](https://github.com/Shivi7757/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [0498-diagonal-traverse](https://github.com/Shivi7757/LeetCode/tree/master/0498-diagonal-traverse) |
 | [1402-count-square-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1402-count-square-submatrices-with-all-ones) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
