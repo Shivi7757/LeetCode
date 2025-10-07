@@ -50,6 +50,7 @@
 | [0900-reordered-power-of-2](https://github.com/Shivi7757/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1500-count-largest-group](https://github.com/Shivi7757/LeetCode/tree/master/1500-count-largest-group) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shivi7757/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivi7757/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivi7757/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
@@ -82,6 +83,7 @@
 | [1424-maximum-candies-you-can-get-from-boxes](https://github.com/Shivi7757/LeetCode/tree/master/1424-maximum-candies-you-can-get-from-boxes) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/Shivi7757/LeetCode/tree/master/1510-find-lucky-integer-in-an-array) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shivi7757/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -147,6 +149,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Shivi7757/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1621-number-of-subsequences-that-satisfy-the-given-sum-condition](https://github.com/Shivi7757/LeetCode/tree/master/1621-number-of-subsequences-that-satisfy-the-given-sum-condition) |
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivi7757/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
@@ -185,6 +188,7 @@
 | [0135-candy](https://github.com/Shivi7757/LeetCode/tree/master/0135-candy) |
 | [0611-valid-triangle-number](https://github.com/Shivi7757/LeetCode/tree/master/0611-valid-triangle-number) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivi7757/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shivi7757/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -222,6 +226,7 @@
 | ------- |
 | [0407-trapping-rain-water-ii](https://github.com/Shivi7757/LeetCode/tree/master/0407-trapping-rain-water-ii) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/Shivi7757/LeetCode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
+| [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
