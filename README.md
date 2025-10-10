@@ -108,6 +108,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shivi7757/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shivi7757/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3459-find-the-minimum-area-to-cover-all-ones-ii](https://github.com/Shivi7757/LeetCode/tree/master/3459-find-the-minimum-area-to-cover-all-ones-ii) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shivi7757/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivi7757/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
@@ -124,6 +125,7 @@
 | [2529-range-product-queries-of-powers](https://github.com/Shivi7757/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shivi7757/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivi7757/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 ## Queue
