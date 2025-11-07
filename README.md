@@ -106,6 +106,7 @@
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
 | [2529-range-product-queries-of-powers](https://github.com/Shivi7757/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
@@ -130,6 +131,7 @@
 | ------- |
 | [2529-range-product-queries-of-powers](https://github.com/Shivi7757/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shivi7757/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
@@ -139,6 +141,7 @@
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/Shivi7757/LeetCode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
 ## Sliding Window
 |  |
@@ -146,6 +149,7 @@
 | [0594-longest-harmonious-subsequence](https://github.com/Shivi7757/LeetCode/tree/master/0594-longest-harmonious-subsequence) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivi7757/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2527-count-subarrays-with-fixed-bounds](https://github.com/Shivi7757/LeetCode/tree/master/2527-count-subarrays-with-fixed-bounds) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 ## Monotonic Queue
 |  |
 | ------- |
@@ -162,6 +166,7 @@
 | [1851-maximum-number-of-events-that-can-be-attended-ii](https://github.com/Shivi7757/LeetCode/tree/master/1851-maximum-number-of-events-that-can-be-attended-ii) |
 | [2150-kth-smallest-product-of-two-sorted-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2150-kth-smallest-product-of-two-sorted-arrays) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivi7757/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shivi7757/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -205,6 +210,7 @@
 | [2387-partition-array-such-that-maximum-difference-is-k](https://github.com/Shivi7757/LeetCode/tree/master/2387-partition-array-such-that-maximum-difference-is-k) |
 | [2395-longest-binary-subsequence-less-than-or-equal-to-k](https://github.com/Shivi7757/LeetCode/tree/master/2395-longest-binary-subsequence-less-than-or-equal-to-k) |
 | [2497-maximum-matching-of-players-with-trainers](https://github.com/Shivi7757/LeetCode/tree/master/2497-maximum-matching-of-players-with-trainers) |
+| [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2704-maximum-difference-by-remapping-a-digit](https://github.com/Shivi7757/LeetCode/tree/master/2704-maximum-difference-by-remapping-a-digit) |
 | [2720-minimize-the-maximum-difference-of-pairs](https://github.com/Shivi7757/LeetCode/tree/master/2720-minimize-the-maximum-difference-of-pairs) |
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
