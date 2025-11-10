@@ -68,6 +68,7 @@
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shivi7757/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Array
 |  |
 | ------- |
@@ -128,6 +129,7 @@
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivi7757/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
 | [3827-implement-router](https://github.com/Shivi7757/LeetCode/tree/master/3827-implement-router) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shivi7757/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -180,11 +182,13 @@
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivi7757/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shivi7757/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1628-count-submatrices-with-all-ones](https://github.com/Shivi7757/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shivi7757/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Two Pointers
 |  |
 | ------- |
@@ -220,6 +224,7 @@
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivi7757/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
+| [3834-minimum-operations-to-convert-all-elements-to-zero](https://github.com/Shivi7757/LeetCode/tree/master/3834-minimum-operations-to-convert-all-elements-to-zero) |
 ## Sorting
 |  |
 | ------- |
