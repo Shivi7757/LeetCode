@@ -8,6 +8,7 @@
 | [0900-reordered-power-of-2](https://github.com/Shivi7757/LeetCode/tree/master/0900-reordered-power-of-2) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/Shivi7757/LeetCode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1500-count-largest-group](https://github.com/Shivi7757/LeetCode/tree/master/1500-count-largest-group) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Shivi7757/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [2288-count-operations-to-obtain-zero](https://github.com/Shivi7757/LeetCode/tree/master/2288-count-operations-to-obtain-zero) |
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
@@ -279,6 +280,7 @@
 | [0166-fraction-to-recurring-decimal](https://github.com/Shivi7757/LeetCode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1058-lexicographically-smallest-equivalent-string](https://github.com/Shivi7757/LeetCode/tree/master/1058-lexicographically-smallest-equivalent-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shivi7757/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1636-number-of-substrings-with-only-1s](https://github.com/Shivi7757/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivi7757/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivi7757/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivi7757/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
