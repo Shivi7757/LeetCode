@@ -57,6 +57,7 @@
 | [1612-avoid-flood-in-the-city](https://github.com/Shivi7757/LeetCode/tree/master/1612-avoid-flood-in-the-city) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/Shivi7757/LeetCode/tree/master/1834-minimum-number-of-people-to-teach) |
 | [1995-finding-pairs-with-a-certain-sum](https://github.com/Shivi7757/LeetCode/tree/master/1995-finding-pairs-with-a-certain-sum) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivi7757/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivi7757/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2204-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Shivi7757/LeetCode/tree/master/2204-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
@@ -137,6 +138,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivi7757/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2529-range-product-queries-of-powers](https://github.com/Shivi7757/LeetCode/tree/master/2529-range-product-queries-of-powers) |
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
@@ -265,6 +267,7 @@
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/Shivi7757/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [1732-minimum-one-bit-operations-to-make-integers-zero](https://github.com/Shivi7757/LeetCode/tree/master/1732-minimum-one-bit-operations-to-make-integers-zero) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivi7757/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2400-minimum-score-after-removals-on-a-tree](https://github.com/Shivi7757/LeetCode/tree/master/2400-minimum-score-after-removals-on-a-tree) |
 | [2498-smallest-subarrays-with-maximum-bitwise-or](https://github.com/Shivi7757/LeetCode/tree/master/2498-smallest-subarrays-with-maximum-bitwise-or) |
 | [2529-range-product-queries-of-powers](https://github.com/Shivi7757/LeetCode/tree/master/2529-range-product-queries-of-powers) |
@@ -287,6 +290,7 @@
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Shivi7757/LeetCode/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Shivi7757/LeetCode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1818-maximum-score-from-removing-substrings](https://github.com/Shivi7757/LeetCode/tree/master/1818-maximum-score-from-removing-substrings) |
+| [2059-unique-length-3-palindromic-subsequences](https://github.com/Shivi7757/LeetCode/tree/master/2059-unique-length-3-palindromic-subsequences) |
 | [2079-delete-duplicate-folders-in-system](https://github.com/Shivi7757/LeetCode/tree/master/2079-delete-duplicate-folders-in-system) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Shivi7757/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2237-longest-palindrome-by-concatenating-two-letter-words](https://github.com/Shivi7757/LeetCode/tree/master/2237-longest-palindrome-by-concatenating-two-letter-words) |
