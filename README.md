@@ -64,6 +64,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
 | [3360-minimum-deletions-to-make-string-k-special](https://github.com/Shivi7757/LeetCode/tree/master/3360-minimum-deletions-to-make-string-k-special) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shivi7757/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shivi7757/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivi7757/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivi7757/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
@@ -120,6 +121,7 @@
 | [3241-divide-array-into-arrays-with-max-difference](https://github.com/Shivi7757/LeetCode/tree/master/3241-divide-array-into-arrays-with-max-difference) |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shivi7757/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/Shivi7757/LeetCode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shivi7757/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum](https://github.com/Shivi7757/LeetCode/tree/master/3382-find-the-number-of-subarrays-where-boundary-elements-are-maximum) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shivi7757/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shivi7757/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
@@ -143,6 +145,7 @@
 | [2574-count-subarrays-with-median-k](https://github.com/Shivi7757/LeetCode/tree/master/2574-count-subarrays-with-median-k) |
 | [2618-maximize-the-minimum-powered-city](https://github.com/Shivi7757/LeetCode/tree/master/2618-maximize-the-minimum-powered-city) |
 | [2915-count-of-interesting-subarrays](https://github.com/Shivi7757/LeetCode/tree/master/2915-count-of-interesting-subarrays) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/Shivi7757/LeetCode/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3383-taking-maximum-energy-from-the-mystic-dungeon](https://github.com/Shivi7757/LeetCode/tree/master/3383-taking-maximum-energy-from-the-mystic-dungeon) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3789-maximize-subarrays-after-removing-one-conflicting-pair](https://github.com/Shivi7757/LeetCode/tree/master/3789-maximize-subarrays-after-removing-one-conflicting-pair) |
