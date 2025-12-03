@@ -20,6 +20,7 @@
 | [3462-vowels-game-in-a-string](https://github.com/Shivi7757/LeetCode/tree/master/3462-vowels-game-in-a-string) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shivi7757/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Shivi7757/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shivi7757/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Dynamic Programming
 |  |
@@ -69,6 +70,7 @@
 | [3437-maximum-total-damage-with-spell-casting](https://github.com/Shivi7757/LeetCode/tree/master/3437-maximum-total-damage-with-spell-casting) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivi7757/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Shivi7757/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3753-maximum-difference-between-even-and-odd-frequency-i](https://github.com/Shivi7757/LeetCode/tree/master/3753-maximum-difference-between-even-and-odd-frequency-i) |
 | [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/Shivi7757/LeetCode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 | [3797-design-spreadsheet](https://github.com/Shivi7757/LeetCode/tree/master/3797-design-spreadsheet) |
@@ -132,6 +134,7 @@
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivi7757/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivi7757/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Shivi7757/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/Shivi7757/LeetCode/tree/master/3647-zero-array-transformation-iii) |
 | [3744-minimum-operations-to-make-array-elements-zero](https://github.com/Shivi7757/LeetCode/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3748-sort-matrix-by-diagonals](https://github.com/Shivi7757/LeetCode/tree/master/3748-sort-matrix-by-diagonals) |
@@ -418,6 +421,7 @@
 | ------- |
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shivi7757/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
+| [3625-count-number-of-trapezoids-ii](https://github.com/Shivi7757/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Brainteaser
 |  |
 | ------- |
