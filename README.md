@@ -19,6 +19,7 @@
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/Shivi7757/LeetCode/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/Shivi7757/LeetCode/tree/master/3279-alice-and-bob-playing-flower-game) |
 | [3462-vowels-game-in-a-string](https://github.com/Shivi7757/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shivi7757/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3601-find-the-k-th-character-in-string-game-ii](https://github.com/Shivi7757/LeetCode/tree/master/3601-find-the-k-th-character-in-string-game-ii) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/Shivi7757/LeetCode/tree/master/3625-count-number-of-trapezoids-ii) |
@@ -43,6 +44,7 @@
 | [2324-find-triangular-sum-of-an-array](https://github.com/Shivi7757/LeetCode/tree/master/2324-find-triangular-sum-of-an-array) |
 | [2415-count-the-number-of-ideal-arrays](https://github.com/Shivi7757/LeetCode/tree/master/2415-count-the-number-of-ideal-arrays) |
 | [3201-distribute-candies-among-children-ii](https://github.com/Shivi7757/LeetCode/tree/master/3201-distribute-candies-among-children-ii) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shivi7757/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Number Theory
 |  |
 | ------- |
@@ -136,6 +138,7 @@
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/Shivi7757/LeetCode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/Shivi7757/LeetCode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Shivi7757/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shivi7757/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/Shivi7757/LeetCode/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3583-count-special-triplets](https://github.com/Shivi7757/LeetCode/tree/master/3583-count-special-triplets) |
 | [3623-count-number-of-trapezoids-i](https://github.com/Shivi7757/LeetCode/tree/master/3623-count-number-of-trapezoids-i) |
@@ -437,6 +440,7 @@
 |  |
 | ------- |
 | [3462-vowels-game-in-a-string](https://github.com/Shivi7757/LeetCode/tree/master/3462-vowels-game-in-a-string) |
+| [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/Shivi7757/LeetCode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Game Theory
 |  |
 | ------- |
